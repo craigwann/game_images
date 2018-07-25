@@ -5,15 +5,11 @@
       <stop offset="1"/>
     </linearGradient>
     <linearGradient id="b" x1="300.54" y1="148.67" x2="300.54" y2="142" xlink:href="#a"/>
-    <linearGradient id="c" x1="271.6" y1="101.74" x2="275.05" y2="115.28" gradientUnits="userSpaceOnUse">
-      <stop offset="0.01" stop-color="#fff78f"/>
-      <stop offset="1" stop-color="#b76e11"/>
+    <linearGradient id="c" x1="184.37" y1="177.64" x2="114.86" y2="142.32" xlink:href="#a"/>
+    <linearGradient id="d" x1="150.27" y1="212.26" x2="77.38" y2="175.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0.01" stop-color="#fff"/>
+      <stop offset="1"/>
     </linearGradient>
-    <linearGradient id="d" x1="269.96" y1="133.11" x2="259.39" y2="77.41" xlink:href="#a"/>
-    <linearGradient id="e" x1="327.08" y1="141.67" x2="252.33" y2="133.8" xlink:href="#a"/>
-    <radialGradient id="f" cx="274.06" cy="111.47" r="2.97" xlink:href="#c"/>
-    <linearGradient id="g" x1="365.57" y1="720.04" x2="369.68" y2="736.18" gradientTransform="translate(522.54 -637) rotate(31.6)" xlink:href="#c"/>
-    <radialGradient id="h" cx="367.23" cy="731.23" r="3.31" gradientTransform="translate(522.54 -637) rotate(31.6)" xlink:href="#c"/>
   </defs>
   <title>room</title>
   <g style="isolation: isolate">
@@ -98,27 +94,39 @@
       <polygon points="179.5 140.5 421.15 140.71 424.23 150.02 176.85 150.02 179.5 140.5" style="opacity: 0.2;mix-blend-mode: multiply;fill: url(#b)"/>
     </g>
     <g>
-      <polygon points="53.5 254.5 125.5 334.5 179.5 140.5 421.5 140.5 475.5 334.5 547.5 254.5 454.5 54.5 146.5 54.5 53.5 254.5" style="fill: #29abe2"/>
+      <polygon points="53.5 254.5 125.5 334.5 179.5 140.5 421.5 140.5 475.5 334.5 547.5 254.5 454.5 54.5 146.5 54.5 53.5 254.5" style="fill: #8cc63f"/>
       <polygon points="454.94 54.66 146.28 54.66 178.97 140.71 422.25 140.71 454.94 54.66" style="opacity: 0.3;mix-blend-mode: multiply"/>
       <polygon points="125.5 334.5 53.5 254.5 145.5 54.5 179.5 140.5 125.5 334.5" style="opacity: 0.5;mix-blend-mode: multiply"/>
       <polygon points="475.5 334.5 547.5 254.5 455.5 54.5 421.5 140.5 475.5 334.5" style="opacity: 0.1;mix-blend-mode: multiply"/>
-      <polygon points="53.5 254.5 547.5 254.5 475.5 334.5 125.5 334.5 53.5 254.5" style="fill: #29abe2;opacity: 0.3"/>
+      <polygon points="53.5 254.5 547.5 254.5 475.5 334.5 125.5 334.5 53.5 254.5" style="fill: #8cc63f;opacity: 0.3"/>
     </g>
     <g>
-      <polygon points="265.82 140.71 260.21 71 340.79 71 335.2 140.68 265.82 140.71" style="fill: #754c24"/>
-      <polygon points="277.42 118 271.48 118 270.48 107.83 277.42 107.83 277.42 118" style="fill: url(#c)"/>
-      <polygon points="467.5 122.5 486.58 170.61 451.51 239.51 438.42 193 467.5 122.5" style="fill: #8c6239"/>
-      <polygon points="336.48 77 335.4 78 265.24 77.64 264.54 77 264.5 77 269.49 138.67 270.39 137.68 330 137 331.51 138.65 336.5 77 336.48 77" style="fill: none"/>
-      <polygon points="336.5 75 331.51 136.65 335.2 140.68 340.84 71 340.79 71 336.48 75 336.5 75" style="fill: #ccc;mix-blend-mode: multiply"/>
-      <polygon points="264.5 75 264.54 75 260.21 71 260.16 71 265.8 140.71 265.82 140.71 269.49 136.67 264.5 75" style="opacity: 0.7000000000000001;mix-blend-mode: multiply;fill: url(#d)"/>
-      <polygon points="335.2 140.68 331.51 136.65 331.51 136.71 269.49 136.71 269.49 136.67 265.82 140.71 335.2 140.71 335.2 140.68" style="opacity: 0.5;mix-blend-mode: multiply;fill: url(#e)"/>
-      <polygon points="336.48 75 340.79 71 260.21 71 264.54 75 336.48 75" style="fill: #4d4d4d;mix-blend-mode: multiply"/>
-      <polygon points="437.39 195.5 439.13 195.5 468.14 132.32 486.58 170.61 469.89 128.52 467.5 122.5 437.39 195.5" style="fill: #999;mix-blend-mode: multiply"/>
-      <circle cx="274.67" cy="112.5" r="2.75" style="fill: #999;opacity: 0.5;mix-blend-mode: multiply"/>
-      <circle cx="274.23" cy="112.16" r="2.75" style="fill: url(#f)"/>
-      <polygon points="451.26 187.62 448.69 183.04 452.9 173.69 456.5 178.77 451.26 187.62" style="fill: url(#g)"/>
-      <path d="M454.88,181.84a2.93,2.93,0,1,1-5-2.94,3.29,3.29,0,0,1,3.91-1.5A3,3,0,0,1,454.88,181.84Z" style="fill: #999;opacity: 0.5;mix-blend-mode: multiply"/>
-      <path d="M454.37,180.39a3.09,3.09,0,0,1-4.42,1.19,3,3,0,0,1-.46-3.94,3.28,3.28,0,0,1,3.82-1.53C454.86,176.72,455.43,178.67,454.37,180.39Z" style="fill: url(#h)"/>
+      <polygon points="151 242 114.42 170.61 163.61 195.5 164.5 195.5 151 242" style="fill: #999;mix-blend-mode: multiply"/>
+      <polygon points="365.03 261.56 235.97 261.56 252.61 334.7 348.39 334.7 365.03 261.56" style="fill: #754c24"/>
+      <polygon points="133.5 122.5 114.42 170.61 149.49 239.51 163.61 195.5 133.5 122.5" style="fill: #42210b"/>
+      <polygon points="163.61 195.5 161.88 195.5 132.86 132.32 114.42 170.61 131.11 128.52 133.5 122.5 163.61 195.5" style="opacity: 0.5;mix-blend-mode: multiply;fill: url(#c)"/>
+      <polygon points="238.08 255.67 235.97 261.56 365.03 261.56 363.06 255.67 238.08 255.67" style="fill: #a67c52"/>
+      <polygon points="149.49 239.51 114.42 170.61 115.81 167.1 150.67 235.3 149.49 239.51" style="opacity: 0.5;mix-blend-mode: multiply;fill: url(#d)"/>
+    </g>
+    <g>
+      <polygon points="182.49 145.26 237.26 145.26 230.71 188.59 170.48 187.4 182.49 145.26" style="fill: #87451f;fill-rule: evenodd"/>
+      <polygon points="237.26 145.26 233.78 114 226.33 163 230.71 188.59 237.26 145.26" style="fill: #a27558;fill-rule: evenodd"/>
+      <polygon points="226.33 163 163.5 163 170.48 187.4 230.71 188.59 226.33 163" style="fill: #c48a57;fill-rule: evenodd"/>
+      <polygon points="163.5 163 174.46 116 233.78 114 226.33 163 163.5 163" style="fill: #e5af82;fill-rule: evenodd"/>
+      <polygon points="192.82 115.25 202.05 115.25 192.82 162.99 194.05 169.63 188.05 169.63 186.05 162.99 192.82 115.25" style="fill: #dfd6cd;fill-rule: evenodd"/>
+      <polygon points="230.93 114.98 229.45 83.71 220 132.71 224.38 158.31 230.93 114.98" style="fill: #a27558;fill-rule: evenodd"/>
+      <polygon points="220 132.71 157.17 132.71 164.15 157.11 224.38 158.31 220 132.71" style="fill: #c48a57;fill-rule: evenodd"/>
+      <polygon points="157.17 132.71 168.13 85.71 229.45 83.71 220 132.71 157.17 132.71" style="fill: #e5af82;fill-rule: evenodd"/>
+      <polygon points="190.77 84.98 200 84.98 190.77 132.71 192 139.36 186 139.36 184 132.71 190.77 84.98" style="fill: #dfd6cd;fill-rule: evenodd"/>
+      <polygon points="365.03 145.51 418.81 145.26 427.97 181 369.97 181 365.03 145.51" style="fill: #c48a57;fill-rule: evenodd"/>
+      <polygon points="369.97 181 384 123.5 449.17 124.19 427.97 181 369.97 181" style="fill: #a27558;fill-rule: evenodd"/>
+      <polygon points="365.03 145.51 369.97 181 384 123.5 374.51 77 365.03 145.51" style="fill: #c48a57;fill-rule: evenodd"/>
+      <polygon points="374.51 77 433.96 78.33 449.17 124.19 384 123.5 374.51 77" style="fill: #e5af82;fill-rule: evenodd"/>
+      <path d="M375.67,106c.33-1.67,2-13.37,2-13.37l60.66-1,2,6.08L379.67,98.8l-2.44,11Z" style="fill: #dfd6cd;fill-rule: evenodd"/>
+      <polygon points="372.42 195.5 386.87 142.44 442.36 142.44 454.94 185.91 440.38 229.54 378.51 232.8 372.42 195.5" style="fill: #c48a57;fill-rule: evenodd"/>
+      <polygon points="378.51 232.8 399.9 187.62 454.94 185.91 440.38 229.54 378.51 232.8" style="fill: #a27558;fill-rule: evenodd"/>
+      <polygon points="386.87 142.44 399.9 187.62 454.94 185.91 442.36 142.44 386.87 142.44" style="fill: #e5af82;fill-rule: evenodd"/>
+      <polygon points="412.38 142.44 423.37 186.89 420.91 196.02 431.19 196.02 434.96 186.53 422.04 142.44 412.38 142.44" style="fill: #dfd6cd;fill-rule: evenodd"/>
     </g>
   </g>
 </svg>
