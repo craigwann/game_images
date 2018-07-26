@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="a" x1="173.71" y1="240.41" x2="157.22" y2="236.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="b" x1="300.54" y1="148.67" x2="300.54" y2="142" xlink:href="#a"/>
+    <linearGradient id="c" x1="1025.73" y1="533.25" x2="1029.84" y2="549.39" gradientTransform="translate(-137.62 -823.78) rotate(31.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.01" stop-color="#fff78f"/>
+      <stop offset="1" stop-color="#b76e11"/>
+    </linearGradient>
+    <radialGradient id="d" cx="1027.39" cy="544.45" r="3.31" gradientTransform="translate(-137.62 -823.78) rotate(31.6)" xlink:href="#c"/>
+    <linearGradient id="e" x1="302.81" y1="148.81" x2="297.31" y2="66.31" xlink:href="#a"/>
+    <linearGradient id="f" x1="317.75" y1="152.59" x2="312.25" y2="70.09" xlink:href="#a"/>
+    <linearGradient id="g" x1="317.43" y1="147.84" x2="313.17" y2="83.93" xlink:href="#a"/>
+    <linearGradient id="h" x1="301.86" y1="117.32" x2="279.2" y2="114.98" xlink:href="#a"/>
+    <linearGradient id="i" x1="315.17" y1="121.19" x2="274.51" y2="118.86" xlink:href="#a"/>
+    <linearGradient id="j" x1="373.74" y1="111.33" x2="276.41" y2="109.17" xlink:href="#a"/>
+    <linearGradient id="k" x1="373.51" y1="121.63" x2="276.18" y2="119.47" xlink:href="#a"/>
+  </defs>
+  <title>room</title>
+  <g style="isolation: isolate">
+    <g>
+      <polygon points="124.5 334.7 179.5 140.5 421.15 140.71 475.91 334.7 124.5 334.7" style="fill: #666"/>
+      <polygon points="124.5 334.7 153.18 334.5 202.49 140.71 179.5 140.5 124.5 334.7" style="opacity: 0.3;mix-blend-mode: multiply;fill: url(#a)"/>
+      <polygon points="179.5 140.5 421.15 140.71 424.23 150.02 176.85 150.02 179.5 140.5" style="opacity: 0.2;mix-blend-mode: multiply;fill: url(#b)"/>
+    </g>
+    <g>
+      <polygon points="53.5 254.5 125.5 334.5 179.5 140.5 421.5 140.5 475.5 334.5 547.5 254.5 454.5 54.5 146.5 54.5 53.5 254.5" style="fill: #b3b3b3"/>
+      <polygon points="454.94 54.66 146.28 54.66 178.97 140.71 422.25 140.71 454.94 54.66" style="opacity: 0.3;mix-blend-mode: multiply"/>
+      <polygon points="125.5 334.5 53.5 254.5 145.5 54.5 179.5 140.5 125.5 334.5" style="opacity: 0.5;mix-blend-mode: multiply"/>
+      <polygon points="475.5 334.5 547.5 254.5 455.5 54.5 421.5 140.5 475.5 334.5" style="opacity: 0.1;mix-blend-mode: multiply"/>
+      <polygon points="53.5 254.5 547.5 254.5 475.5 334.5 125.5 334.5 53.5 254.5" style="fill: gray;opacity: 0.3"/>
+    </g>
+    <g>
+      <polygon points="467.5 122.5 486.58 170.61 451.51 239.51 438.42 193 467.5 122.5" style="fill: #8c6239"/>
+      <polygon points="437.39 195.5 439.13 195.5 468.14 132.32 486.58 170.61 469.89 128.52 467.5 122.5 437.39 195.5" style="fill: #999;mix-blend-mode: multiply"/>
+      <polygon points="451.26 187.62 448.69 183.04 452.9 173.69 456.5 178.77 451.26 187.62" style="fill: url(#c)"/>
+      <path d="M454.88,181.84a2.93,2.93,0,1,1-5-2.94,3.29,3.29,0,0,1,3.91-1.5A3,3,0,0,1,454.88,181.84Z" style="fill: #999;opacity: 0.5;mix-blend-mode: multiply"/>
+      <path d="M454.37,180.39a3.09,3.09,0,0,1-4.42,1.19,3,3,0,0,1-.46-3.94,3.28,3.28,0,0,1,3.82-1.53C454.86,176.72,455.43,178.67,454.37,180.39Z" style="fill: url(#d)"/>
+      <polygon points="300.92 122.5 300.83 122.83 301.08 123.38 301.3 122.5 300.92 122.5" style="fill: url(#e)"/>
+      <path d="M310.17,127.17l3.67-4,6.67-5.5,7,2.5s3.67,4.67,5,3.67,3.8-7.67,3.8-7.67l6-6.67,7-2.67h.26l-1.09-2.5-20.13-6.65-12-2.69-2.67-7.33L301.3,90.33l-10,7.35L284,102l-4.17,4.83h4.67l-4,3.67,1.27,1.17h1.89l-.95.87,1.78,1.63,8.33-1.33-2.33,4.83h11.64l-1.22,4.83h.39l-.22.88,2.75,6.12Z" style="fill: url(#f)"/>
+      <path d="M310.17,127.17l3.67-4,6.67-5.5,7,2.5s3.67,4.67,5,3.67,3.8-7.67,3.8-7.67l6-6.67,7-2.67h.26l-1.09-2.5-20.13-6.65-12-2.69-2.67-7.33L301.3,90.33l-10,7.35L284,102l-4.17,4.83h4.67l-4,3.67,1.27,1.17h1.89l-.95.87,1.78,1.63,8.33-1.33-2.33,4.83h11.64l-1.22,4.83h.39l-.22.88,2.75,6.12Z" style="fill: url(#g)"/>
+      <polygon points="292.83 112.83 284.5 114.17 282.72 112.53 279.67 115.33 283.67 119 292 117.67 290.5 117.67 292.83 112.83" style="fill: url(#h)"/>
+      <polygon points="292 117.67 289.67 122.5 300.92 122.5 302.14 117.67 292 117.67" style="fill: url(#i)"/>
+      <polygon points="284.5 106.83 279.83 106.83 275.67 111.67 281.77 111.67 280.5 110.5 284.5 106.83" style="fill: url(#j)"/>
+      <path d="M349.3,106.83l-7,2.67-6,6.67s-2.47,6.67-3.8,7.67-5-3.67-5-3.67l-7-2.5-6.67,5.5-3.67,4-6.33,2.33-2.75-6.12L300,127.67l3,6.67,6.33-2.33,3.67-4,6.67-5.5,7,2.5s3.67,4.67,5,3.67,3.8-7.67,3.8-7.67l6-6.67,7-2.67h3.2l-2.11-4.83Z" style="fill: url(#k)"/>
+    </g>
+  </g>
+</svg>
